@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: classifier
+Version: 0.0.0
+Summary: Test Package
+Home-page: https://github.com/lokeshfallen/mlops_project
+Author: lokeshfallen
+Author-email: ch.en.u4cce21029@ch.students.amrita.edu
+Project-URL: Bug Tracker, https://github.com/lokeshfallen/mlops_project/issues
+License-File: LICENSE
+
+# mlops_project
